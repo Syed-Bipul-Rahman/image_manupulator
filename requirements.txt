@@ -1,0 +1,11 @@
+# For CLI version (image_manupulator.py)
+Pillow>=10.0.0
+pillow-heif>=0.10.0
+
+# For enhanced GUI version (enhanced_image_manipulator.py) - requires tkinter
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# For web-based GUI (web_image_manipulator.py) - no tkinter needed
+streamlit>=1.28.0
